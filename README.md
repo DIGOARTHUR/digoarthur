@@ -32,6 +32,16 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
   <img alt="PHP" src="https://img.shields.io/badge/PHP-6495ED?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-0000CD?style=for-the-badge&logo=C&logoColor=white"/>
+
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=java&logoColor=white"/>
+
+ <img alt="Python" src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white"/>
+ 
+
+</p>
+
 
 <h2 align='left'>#Github: :octocat:⚙️</h2>
  <p align="center">
