@@ -1,4 +1,8 @@
 
+
+<!---
+Consultar a URL para desenvolver os icons das Skils -> https://shields.io
+-->
 <p>
     <h2 align="rigth"><img  alt="skills"  width="50" height="50" src="icons/skills.svg"></img>#My Skills: </h2>
 </p>
