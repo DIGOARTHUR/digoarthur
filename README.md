@@ -1,15 +1,26 @@
 
 
-<h1 color="black" align="center"> #Bug shall not pass ! 🧙 </h1>
 
 
 <!---
 Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 -->
+
+
+<h1 color="black" align="center"> #Bug shall not pass ! 🧙 </h1>
+
+
+<h2 align='left'>#About me: </h2>
+<p align='left' color="grey" font-size="20px">I'm Diego Arthur , <br/>Specializing in FullStack Development 👨‍💻. <br/> I'm graduated, self-thaught and passionate about learning.</p>
+<p align='left'>📍Living: Brazil;<br/>  👨‍🎓 College: UFSJ, Ouro Branco- MG.</p>
+<br/>
+<p>
+
+
+
 <p>
     <h2 align="rigth"><img  alt="skills"  width="50" height="50" src="icons/skills.svg"></img>#My Skills: </h2>
 </p>
-
 
 <p>
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
