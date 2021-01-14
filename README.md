@@ -31,7 +31,11 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
  
   <img alt="PHP" src="https://img.shields.io/badge/PHP-6495ED?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
+
+<h2 align='left'>#Github: :octocat:⚙️</h2>
  <p align="center">
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digoarthur&bg_color=9370DB&text_color=FFFAFA&title_color=FFFFFF&style=centerme" alt="My GitHub stats"/>
+    </br>
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=digoarthur&show_icons=true&theme=radical&title_color=FFFFFF&bg_color=9370DB&text_color=FFFAFA" alt="Most Used Language"/>
 </p>
