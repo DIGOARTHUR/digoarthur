@@ -26,7 +26,11 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 
 <h2 align='left'>#About me: </h2>
 <p align='left' color="grey" font-size="20px">I'm Diego Arthur , <br/>Specializing in FullStack Development 👨‍💻. <br/> I'm graduated, self-thaught and passionate about learning.</p>
-<p align='left'>📍Living: Brazil;<br/>  👨‍🎓 College: UFSJ, Ouro Branco- MG.</p>
+<p align='left'>📍Living: Brazil;<br/>  👨‍🎓 College: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
+
+
+
+
 <br/>
 <p>
 
