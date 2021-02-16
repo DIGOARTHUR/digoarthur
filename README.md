@@ -7,7 +7,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 -->
 
 
-<h1 color="black" align="center"> #Bug shall not pass ! 🧙 </h1>
+<h1 color="black" align="center"><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
 <br/>
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
