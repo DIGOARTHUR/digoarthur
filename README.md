@@ -61,9 +61,16 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 </p>
 
 
-<h2 align='left'>#Github: :octocat:⚙️</h2>
- <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digoarthur&bg_color=9370DB&text_color=FFFAFA&title_color=FFFFFF&style=centerme" alt="My GitHub stats"/>
-    </br>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=digoarthur&show_icons=true&theme=radical&title_color=FFFFFF&bg_color=9370DB&text_color=FFFAFA" alt="Most Used Language"/>
-</p>
+<a href="https://github.com/digoarthur/github-readme-statst">
+   <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=digoarthur&show_icons=true&theme=radical&title_color=FFFFFF&bg_color=9370DB&text_color=FFFAFA" alt="Most Used Language"/>
+</a>
+
+<a href="https://github.com/digoarthur/github-readme-stats">
+ <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=digoarthur&bg_color=9370DB&text_color=FFFAFA&layout=compact&title_color=FFFFFF&style=centerme" alt="My GitHub stats"/>
+</a><br><br><br><br><br><br><br><br>
+<br>
+
+
+
+
+
