@@ -61,6 +61,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 </p>
 
 
+<h2 align='left'>#Github: :octocat:⚙️</h2>
 <a href="https://github.com/digoarthur/github-readme-statst">
    <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=digoarthur&show_icons=true&theme=radical&title_color=FFFFFF&bg_color=9370DB&text_color=FFFAFA" alt="Most Used Language"/>
 </a>
