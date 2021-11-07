@@ -47,7 +47,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-6495ED?style=for-the-badge&logo=php&logoColor=white"/>
+  
 </p>
 
 <p>
