@@ -39,7 +39,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
     
 #### <kbd>Back-end:</kbd><br>
     
-<code><img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
+<code><img height="32" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
 <code><img height="32" title="MySQL" alt="MySQL" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
 
  
