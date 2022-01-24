@@ -10,7 +10,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 <h1 color="black" align="center"><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
 <br/>
-<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
+<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:⤵️</p>
 <p align="center">
     <a href="mailto:digo.arthur@hotmail.com"><img src="icons/outlook.svg" alt="HotMailIcon"    width="50" height="50" aling="center"><img/></a>
     <a href="https://www.linkedin.com/in/digoarthur/"><img src="icons/linkedin.svg"     alt="LinkedinIcon" width="38" height="38" aling="center"><img/></a>
