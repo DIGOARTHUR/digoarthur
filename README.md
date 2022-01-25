@@ -25,7 +25,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
     
 </p>
  -->
-<h2 align='left'>#About me: </h2>
+<img height="32" title="NodeJS" alt="NodeJS" src="https://user-images.githubusercontent.com/59892368/151024179-19744cf7-987d-4420-b3df-f5db333d89ca.png"/><h2 align='left'>#About me: </h2>
 <p align='left'> I'm Diego Arthur , <br/>Specializing in FullStack Development 👨‍💻. <br/> I'm graduated in Science and Technology, self-thaught and passionate about learning. Somehow I want to make a contribution to the world!!! 
 I am currently a Mechatronics Engineering student.</p>
 <p align='left'>📍Living: Brazil;<br/>  👨‍🎓 University: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
