@@ -43,26 +43,26 @@ I am currently a Mechatronics Engineering student.</p>
     
 #### <kbd>Back-end:</kbd><br>
     
-<code><img height="32" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
-<code><img height="32" title="MySQL" alt="MySQL" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
+<code><img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
+<code><img height="40" title="MySQL" alt="MySQL" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
 
  
 
 
 ####  <kbd>Front-end:</kbd><br>
     
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;
 
 
     
 #### <kbd>Tools:</kbd><br>
     
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>&nbsp;
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>&nbsp;
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>&nbsp;
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>&nbsp;
     
     
     
@@ -72,9 +72,9 @@ I am currently a Mechatronics Engineering student.</p>
 
 #### <kbd>Others:</kbd><br> 
 
-<code><img height="32" src="https://user-images.githubusercontent.com/59892368/150860142-620f1655-8341-41e4-ac8d-04465d5ac804.png" alt="Python"/></code>&nbsp;
-<code><img height="32" src="https://user-images.githubusercontent.com/59892368/150860250-f583c7d0-7a12-4d6d-9bab-fafde7a5de58.png" alt="C"/></code>&nbsp;
- <code><img height="32" src="https://user-images.githubusercontent.com/59892368/150859987-f12be481-bed1-4ecd-a68d-eb0cdc8cdbfd.png" alt="Java"/></code>&nbsp;
+<code><img height="40" src="https://user-images.githubusercontent.com/59892368/150860142-620f1655-8341-41e4-ac8d-04465d5ac804.png" alt="Python"/></code>&nbsp;
+<code><img height="40" src="https://user-images.githubusercontent.com/59892368/150860250-f583c7d0-7a12-4d6d-9bab-fafde7a5de58.png" alt="C"/></code>&nbsp;
+ <code><img height="40" src="https://user-images.githubusercontent.com/59892368/150859987-f12be481-bed1-4ecd-a68d-eb0cdc8cdbfd.png" alt="Java"/></code>&nbsp;
 
 
 
