@@ -40,6 +40,16 @@ I am currently a Mechatronics Engineering student.</p>
 <p>
 
 <div align='center'>
+ 
+ ####  <kbd>Front-end:</kbd><br>
+    
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;   
+    
+    
     
 #### <kbd>Back-end:</kbd><br>
     
@@ -49,13 +59,7 @@ I am currently a Mechatronics Engineering student.</p>
  
 
 
-####  <kbd>Front-end:</kbd><br>
-    
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;
+
 
 
     
