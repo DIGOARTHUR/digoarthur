@@ -38,23 +38,121 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 <br/>
 <p>
 
+
+  
 <div align='center'>
  
  ####  <kbd>Front-end:</kbd><br>
+ 
+<table align="center" height="150px">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+     
+
     
+ <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;   
-    
+--->    
     
     
 #### <kbd>Back-end:</kbd><br>
     
+ <table align="center" height="150px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+    
+<!--
 <code><img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
 <code><img height="40" title="MySQL" alt="MySQL" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
-
+--->
  
 
 
@@ -64,11 +162,12 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
     
 #### <kbd>Tools:</kbd><br>
     
+   <!---
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>&nbsp;
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>&nbsp;
 <code><img height="40" src="https://user-images.githubusercontent.com/59892368/160259199-16ac3759-9536-445e-ac6e-5005734f30ec.svg" alt="Docker"/></code>&nbsp;
 <code><img height="40" src="https://user-images.githubusercontent.com/59892368/160259189-b96c983a-e5a6-4b2b-a341-1402da0a714b.svg" alt="Insomnia"/></code>&nbsp;
-    
+   ---> 
     
     
 
@@ -76,11 +175,11 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 </div>    
 
 #### <kbd>Others:</kbd><br> 
-
+<!--
 <code><img height="40" src="https://user-images.githubusercontent.com/59892368/150860142-620f1655-8341-41e4-ac8d-04465d5ac804.png" alt="Python"/></code>&nbsp;
 <code><img height="40" src="https://user-images.githubusercontent.com/59892368/150860250-f583c7d0-7a12-4d6d-9bab-fafde7a5de58.png" alt="C"/></code>&nbsp;
  <code><img height="40" src="https://user-images.githubusercontent.com/59892368/150859987-f12be481-bed1-4ecd-a68d-eb0cdc8cdbfd.png" alt="Java"/></code>&nbsp;
-
+ ---> 
 
 
 
