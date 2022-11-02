@@ -71,18 +71,18 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65px" alt=""/><br>
       <sub>
         <b>
-          <pre>HTML5</pre>
+          <pre>ReactJS</pre>
         </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65px" alt="n"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
@@ -106,45 +106,14 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
  <table align="center" height="150px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65px" alt="bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
+ 
   </tr>
 </table>
 
