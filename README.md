@@ -109,7 +109,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65px" alt="bash icon"/><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
+          <pre>NodeJS</pre>
         </b>
       </sub>
     </td>
@@ -131,6 +131,36 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
     
 #### <kbd>Tools:</kbd><br>
     
+    
+  <table align="center" height="150px">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Visual Studio Code</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center" width="100px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65px" alt="n"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+          <td align="center" width="100px">
+      <img src="https://user-images.githubusercontent.com/59892368/160259189-b96c983a-e5a6-4b2b-a341-1402da0a714b.svg" width="65px" alt="n"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
    <!---
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>&nbsp;
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>&nbsp;
