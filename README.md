@@ -154,7 +154,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
       <img src="https://user-images.githubusercontent.com/59892368/160259189-b96c983a-e5a6-4b2b-a341-1402da0a714b.svg" width="65px" alt="n"/><br>
       <sub>
         <b>
-          <pre>Git</pre>
+          <pre>Insomnia</pre>
         </b>
       </sub>
     </td>
