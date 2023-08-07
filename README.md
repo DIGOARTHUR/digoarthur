@@ -1,7 +1,5 @@
 
 
-
-
 <!---
 Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 -->
@@ -13,7 +11,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:⤵️</p>
 <p align="center">
     <a href="mailto:digo.arthur@hotmail.com"><img src="icons/outlook.svg" alt="HotMailIcon"    width="50" height="50" aling="center"><img/></a>
-    <a href="https://www.linkedin.com/in/digoarthur/"><img src="icons/linkedin.svg"     alt="LinkedinIcon" width="38" height="38" aling="center"><img/></a>
+    <a href="https://www.linkedin.com/in/digoarthur/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/258772829-b93b49e5-d4ad-4e37-ae27-eb805ad09139.svg"     alt="LinkedinIcon" width="50" height="50" aling="center"><img/></a>
 </p>
    <!---  
 <p align="center">
@@ -93,7 +91,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 
     
  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>&nbsp;
+<code><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML5"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
@@ -162,8 +160,8 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 </table>
 ---> 
   
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>&nbsp;
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>&nbsp;
+<code><img height="40" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="Visual Studio Code"/></code>&nbsp;
+<code><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"/></code>&nbsp;
 <!-- <code><img height="40" src="https://user-images.githubusercontent.com/59892368/160259189-b96c983a-e5a6-4b2b-a341-1402da0a714b.svg" alt="Insomnia"/></code>&nbsp;
  <code><img height="40" src="https://user-images.githubusercontent.com/59892368/160259199-16ac3759-9536-445e-ac6e-5005734f30ec.svg" alt="Docker"/></code>&nbsp; ---> 
 
