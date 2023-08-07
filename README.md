@@ -91,11 +91,11 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 
     
  
-<code><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML5"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"/></code>&nbsp;   
+<code><img  src="https://skillicons.dev/icons?i=html" alt="HTML5"/></code>&nbsp;
+<code><img  src="https://skillicons.dev/icons?i=css" alt="CSS"/></code>&nbsp;
+<code><img  src="https://skillicons.dev/icons?i=javascript"  alt="Javascript"/></code>&nbsp;
+<code><img  src="https://skillicons.dev/icons?i=react" alt="React"/></code>&nbsp;
+<code><img  src="https://skillicons.dev/icons?i=typescript" alt="Typescript"/></code>&nbsp;   
    
     
     
@@ -117,7 +117,7 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 --->
     
 
-<code><img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>&nbsp;
+<code><img  title="NodeJS" alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs"/></code>&nbsp;
 <!---  <code><img height="40" title="MySQL" alt="MySQL" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>--->
 
  
