@@ -1,9 +1,8 @@
 
-
 <!---
-Consultar a URL para desenvolver os icons das Skils -> https://shields.io
+font: https://dev.to/kyechan99/make-your-profile-readme-colorful-3gag
 -->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:424256,100:3a3a4a&height=120&section=header"/>
 
 <h1 color="black" align="center"><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
@@ -182,14 +181,18 @@ Consultar a URL para desenvolver os icons das Skils -> https://shields.io
 
 
 <h2 align='left'>#Github: :octocat:⚙️</h2>
-<a href="https://github.com/digoarthur/github-readme-statst">
-   <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=digoarthur&show_icons=true&theme=radical&title_color=FFFFFF&bg_color=9370DB&text_color=FFFAFA" alt="Most Used Language"/>
-</a>
 
-<a href="https://github.com/digoarthur/github-readme-stats">
- <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=digoarthur&bg_color=9370DB&text_color=FFFAFA&layout=compact&title_color=FFFFFF&style=centerme" alt="My GitHub stats"/>
-</a><br><br><br><br><br><br><br><br>
-<br>
+
+
+
+<!-- STATISTICS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  
+  <img style="height:100%;width:49%;max-width: 100%; max-height: 164px" src="https://github-readme-stats.vercel.app/api?username=digoarthur&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=digoarthur&theme=tokyonight&hide_border=true"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:424256,100:3a3a4a&height=120&section=footer"/>
 
 
 
