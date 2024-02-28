@@ -2,7 +2,7 @@
 <!---
 font: https://dev.to/kyechan99/make-your-profile-readme-colorful-3gag
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:424256,100:3a3a4a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:a3a3ff,100:1f1fff&height=120&section=header"/>
 
 <h1 color="black" align="center"><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
