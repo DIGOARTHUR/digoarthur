@@ -1,6 +1,9 @@
-![Group 21](https://github.com/DIGOARTHUR/digoarthur/assets/59892368/4b2c875f-82b1-4e15-bb83-3b0bd355ae0f)
 
 
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:9956F6,0:FF00B8&height=120&section=footer"/>
 
 
 <!---
@@ -74,7 +77,7 @@ Passionate about teaching... At the University I was Researcher, programming Mon
 <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=digoarthur&theme=tokyonight&hide_border=true"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:424256,100:3a3a4a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:542F88,100:880062&height=120&section=footer"/>
 
 
 
