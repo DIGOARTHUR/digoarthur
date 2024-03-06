@@ -1,3 +1,19 @@
+<div align='center'>
+
+
+|  |    | Description   |                                                                                                                                                   
+|:---: | :---:  | ---     |                                                                                                                                                   
+| Fifine A8     | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/acdd3223-c4d1-492e-935e-28a51958eba5" alt="HTML5"/>| |    
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/7fb6aada-c634-4250-8c88-2f975b5b3dd6" alt="HTML5"/>  | |  
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/8200d7e8-647d-46a2-b4d4-1b1b9a44942a" alt="HTML5"/>  | |  
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/a2860921-2a43-4d0a-9d10-3bcc18333a61" alt="HTML5"/>  | |  
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/4c64b5ca-064b-490c-a516-a85b870e22ca" alt="HTML5"/>  | |  
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/fd863d3d-b705-45f4-bd21-69b1fd83fb23" alt="HTML5"/>  |133467 USB-C to DisplayPort Cable , M/M, 1.8m  |  
+|      | <img height="100"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/16b66dc2-18ee-4973-8a5c-42155e1e9d6b" alt="HTML5"/>  |Invision Suporte de monitor de secretária para ecrãs de 19 a 32 polegadas, VESA de 75 e 100 mm, braçadeira de secretária de suporte, ajuste de altura com inclinação, giratório, rotativo, peso de 2-9 |  
+</div>
+
+
+
 
 
 
@@ -61,6 +77,26 @@ Passionate about teaching... At the University I was Researcher, programming Mon
 | <h3>`Others`</h3>   | <kbd> IDE </kbd> <h5>●• VSCode</h5> <kbd> DevOps Tools</kbd> <h5>●• Git</h5>  |<img height="60"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/309495531-5a46e8b3-59a4-4f54-b793-2dc30a7b3ed9.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240302T191353Z&X-Amz-Expires=300&X-Amz-Signature=373e695d37a99cb1c54d56689481b07ef44f3991528bd1a90b80834e76fd1f37&X-Amz-SignedHeaders=host&actor_id=59892368&key_id=0&repo_id=329444623" alt="HTML5"/> <br/> <img height="60"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/309484384-818d5c02-0eda-4767-925a-0a37c707b197.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240302T155347Z&X-Amz-Expires=300&X-Amz-Signature=b23a5ff945fb611e6612d2ec55197c7c7ada4fb1449a70a846c4b109e2b83eec&X-Amz-SignedHeaders=host&actor_id=59892368&key_id=0&repo_id=329444623" alt="HTML5"/> |
 </div>
 
+
+
+
+
+
+
+
+
+
+
+<details>
+
+<summary>My Setup</summary>
+<br/>
+  <br/>
+
+
+
+
+</details>
 
 
 
