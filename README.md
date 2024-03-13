@@ -30,15 +30,19 @@ About me:</h2>
 
 
 <div>
-<p>
+
 Hi, my name is Diego Arthur.
 I'm a developer with experience in Frontend and specialized in ReactJS, but I'm specializing in Backend using NodeJS. Also, now I’m perfecting my English to get an international opportunity.
     <br/>
      <br/>
-Passionate about teaching... At the University I was Researcher, programming Monitor, I taught Mathematics classes in a community project, I am Author of a programming book and currently enthusiastic about Pentest and Cybersecurity.
-</p>
+Passionate about teaching... At the University I was Researcher, programming Monitor, I taught Mathematics classes in a community project[^1], I am Author of a programming book[^2] , and currently enthusiastic about Pentest and Cybersecurity. 
+
 <p align='left'>📍 🇵🇹 Living: Portugal;<br/>  👨‍🎓 🇧🇷 University: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
 </div>
+
+
+[^1]: https://www.instagram.com/p/CmuTE8lORBJ/
+[^2]:"https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994"
 
 
 
