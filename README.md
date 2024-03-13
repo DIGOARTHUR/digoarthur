@@ -10,7 +10,8 @@
 |   Soundbar SAMSUNG HW-B650/ZF   | <img width="150"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/a2860921-2a43-4d0a-9d10-3bcc18333a61" alt="HTML5"/>  | |  
 |   Monitor Curvo LG UltraGear 34GP63A-B   | <img width="150"   src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/4c64b5ca-064b-490c-a516-a85b870e22ca" alt="HTML5"/>  | |  
 |  USB-C to DisplayPort Cable    | <img width="150"   src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/fd863d3d-b705-45f4-bd21-69b1fd83fb23" alt="HTML5"/>  |133467 USB-C to DisplayPort Cable , M/M, 1.8m  |  
-|  Invision Suporte de monitor    | <img width="150"   src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/16b66dc2-18ee-4973-8a5c-42155e1e9d6b" alt="HTML5"/>  |Invision Suporte de monitor de secretária para ecrãs de 19 a 32 polegadas, VESA de 75 e 100 mm, braçadeira de secretária de suporte, ajuste de altura com inclinação, giratório, rotativo, peso de 2-9 |  
+|  Invision Suporte de monitor    | <img width="150"   src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/16b66dc2-18ee-4973-8a5c-42155e1e9d6b" alt="HTML5"/>  |Invision Suporte de monitor de secretária para ecrãs de 19 a 32 polegadas, VESA de 75 e 100 mm, braçadeira de secretária de suporte, ajuste de altura com inclinação, giratório, rotativo, peso de 2-9 | 
+|  Phones   | <img width="150"   src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/eaf5ef2e-f5d4-4738-94bd-cdeb2e113eca" alt="HTML5"/>  | |  
 </div>
 
 
