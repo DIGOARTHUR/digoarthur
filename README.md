@@ -45,7 +45,7 @@ I like playing Indie games, I love cinema, travel and taste food.
 </div>
 
 
-[^1]: [Community Project - Cursinho Popular]( https://www.instagram.com/p/CmuTE8lORBJ/)
+[^1]: [Community Project - Cursinho Popular](https://www.instagram.com/integrar.cursinho/)
 [^2]: [Programming Book - R básico (Estudando o Ambiente R) (Portuguese Edition)](https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994) 
 
 
