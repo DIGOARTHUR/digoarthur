@@ -41,8 +41,8 @@ Passionate about teaching... At the University I was Researcher, programming Mon
 </div>
 
 
-[^1]: https://www.instagram.com/p/CmuTE8lORBJ/
-[^2]:"https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994"
+[^1]: [Community Project - Cursinho Popular]( https://www.instagram.com/p/CmuTE8lORBJ/)
+[^2]: [Programming Book - R básico (Estudando o Ambiente R) (Portuguese Edition)](https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994) 
 
 
 
