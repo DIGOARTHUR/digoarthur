@@ -11,11 +11,13 @@ font: https://dev.to/kyechan99/make-your-profile-readme-colorful-3gag
 <h1 color="black" align="center"><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
 
+
+
 <br/>
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:⤵️</p>
 <p align="center">
-    <a href="mailto:digo.arthur@hotmail.com"><img src="icons/outlook.svg" alt="HotMailIcon"    width="50" height="50" aling="center"><img/></a>
-    <a href="https://www.linkedin.com/in/digoarthur/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/258772829-b93b49e5-d4ad-4e37-ae27-eb805ad09139.svg"     alt="LinkedinIcon" width="50" height="50" aling="center"><img/></a>
+    <a href="mailto:digo.arthur@hotmail.com"><img src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/b0088fcf-29ed-457a-b298-32c396c34251" alt="HotMailIcon"    width="50" height="50" aling="center"><img/></a>
+    <a href="https://www.linkedin.com/in/digoarthur/"><img src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/4a6f6bb1-3664-43e5-8b4f-fec9111f812a"     alt="LinkedinIcon" width="50" height="50" aling="center"><img/></a>
 <p>
 
 
