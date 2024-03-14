@@ -39,6 +39,8 @@ I'm a developer with experience in Frontend and specialized in ReactJS, but I'm 
      <br/>
 Passionate about teaching... At the University I was Researcher, programming Monitor, I taught Mathematics classes in a community project[^1], I am Author of a programming book[^2] , and currently enthusiastic about Pentest and Cybersecurity. 
 
+I like playing Indie games, I love cinema, travel and taste food.
+
 <p align='left'>📍 🇵🇹 Living: Portugal;<br/>  👨‍🎓 🇧🇷 University: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
 </div>
 
