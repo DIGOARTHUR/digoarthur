@@ -26,7 +26,8 @@ font: https://dev.to/kyechan99/make-your-profile-readme-colorful-3gag
 
 
 
-<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://user-images.githubusercontent.com/59892368/151024179-19744cf7-987d-4420-b3df-f5db333d89ca.png"/>
+
+<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d484d7c4-8dba-4f68-b52b-b09c6f08ec17"/>
 About me:</h2>
 <img align="right" width="250px" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/9ba0eb3f-f593-4ad3-9ece-6eeb24abf19f" />
 
@@ -54,6 +55,11 @@ I like playing Indie games, I love cinema, travel and taste food.
   <br/>
 
 
+  ------
+
+
+<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/01b5a690-a7d9-4d16-bd57-1aa10ef45c90"/>
+Work Stacks:</h2>
 
 
 
