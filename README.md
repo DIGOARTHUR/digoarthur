@@ -55,7 +55,7 @@ I like playing Indie games, I love cinema, travel and taste food.
   <br/>
 
 
-  ------
+
 
 
 <h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/01b5a690-a7d9-4d16-bd57-1aa10ef45c90"/>
@@ -76,15 +76,16 @@ Work Stacks:</h2>
 
 
 
+  ------
 
 
 
 
-
-
+<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>
+My Setup:</h2>
 <details>
 
-<summary>My Setup</summary>
+<summary><img height="40" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/e3f7435e-fef0-4fbb-9107-02b3ccf9b2a7"/></summary>
 <br/>
   <br/>
 
