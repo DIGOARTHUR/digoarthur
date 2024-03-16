@@ -74,10 +74,14 @@ Work Stacks:</h2>
 
 
 
+<br/>
+  <br/>
 
 
   ------
 
+<br/>
+  <br/>
 
 
 
@@ -85,7 +89,7 @@ Work Stacks:</h2>
 My Setup:</h2>
 <details>
 
-<summary><img height="40" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/e3f7435e-fef0-4fbb-9107-02b3ccf9b2a7"/></summary>
+<summary><img height="50" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/e3f7435e-fef0-4fbb-9107-02b3ccf9b2a7"/></summary>
 <br/>
   <br/>
 
@@ -106,6 +110,9 @@ My Setup:</h2>
 
 </details>
 
+
+<br/>
+  <br/>
 
 
 
