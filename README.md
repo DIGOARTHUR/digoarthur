@@ -1,4 +1,4 @@
-![Group (11)](https://github.com/DIGOARTHUR/digoarthur/assets/59892368/68ace390-4198-4da0-8473-4d731be18f6c)
+
 
 
 
