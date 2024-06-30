@@ -95,7 +95,7 @@ Work Stacks:</h2>
 
 
 
-<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>
+
 My Setup:</h2>
 <details>
 
