@@ -95,11 +95,11 @@ Work Stacks:</h2>
 
 
 
-
+<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>
 My Setup:</h2>
 <details>
 
-<summary><img height="50" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/e3f7435e-fef0-4fbb-9107-02b3ccf9b2a7"/></summary>
+
 <br/>
   <br/>
 
